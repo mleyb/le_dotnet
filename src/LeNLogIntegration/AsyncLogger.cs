@@ -452,7 +452,6 @@ namespace LogentriesCore.Net
 
         public virtual void AddLine(string line)
         {
-            Debug.Write("LE - Adding Line: line");
             if (!IsRunning)
             {
                 if (LoadCredentials())
