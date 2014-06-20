@@ -10,3 +10,7 @@ C:\Users\Mark\Documents\Visual Studio 2010\Projects\Logentries\LogentriesCore\bi
 C:\Users\Mark\Documents\Visual Studio 2010\Projects\Logentries\LogentriesCore\obj\Release\ResolveAssemblyReference.cache
 C:\Users\Mark\Documents\Visual Studio 2010\Projects\Logentries\LogentriesCore\obj\Release\LogentriesCore.dll
 C:\Users\Mark\Documents\Visual Studio 2010\Projects\Logentries\LogentriesCore\obj\Release\LogentriesCore.pdb
+C:\Work\Git\le_dotnet\src\LogentriesCore\bin\Release\LogentriesCore.dll
+C:\Work\Git\le_dotnet\src\LogentriesCore\bin\Release\LogentriesCore.pdb
+C:\Work\Git\le_dotnet\src\LogentriesCore\obj\Release\LogentriesCore.dll
+C:\Work\Git\le_dotnet\src\LogentriesCore\obj\Release\LogentriesCore.pdb

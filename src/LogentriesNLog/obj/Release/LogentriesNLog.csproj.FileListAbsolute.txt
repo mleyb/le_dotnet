@@ -7,3 +7,4 @@ C:\Users\Mark\Documents\Visual Studio 2010\Projects\Logentries\LogentriesNLog\bi
 C:\Users\Mark\Documents\Visual Studio 2010\Projects\Logentries\LogentriesNLog\obj\Release\ResolveAssemblyReference.cache
 C:\Users\Mark\Documents\Visual Studio 2010\Projects\Logentries\LogentriesNLog\obj\Release\LogentriesNLog.dll
 C:\Users\Mark\Documents\Visual Studio 2010\Projects\Logentries\LogentriesNLog\obj\Release\LogentriesNLog.pdb
+C:\Work\Git\le_dotnet\src\LogentriesNLog\obj\Release\LogentriesNLog.csprojResolveAssemblyReference.cache
